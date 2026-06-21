@@ -1,6 +1,6 @@
-# Programowanie w C
+# Programowanie w C i Python
 
-Zbiór programów wykonanych podczas zajęć oraz w ramach prac domowych.
+Zbiór programów wykonanych podczas zajęć oraz w ramach prac domowych. Konwersja wybranych programów wykonanych wcześniej w C na ich odpowiedniki w Pythonie.
 
 ## Programy
 
@@ -13,15 +13,8 @@ Zbiór programów wykonanych podczas zajęć oraz w ramach prac domowych.
 7. Przetwarzanie tekstu – zamiana wielkości liter w napisie.
 8. Kalkulator z linii poleceń – argumenty programu.
 9. Rozbudowany kalkulator z linii poleceń – walidacja danych wejściowych.
+10. Mediana - python
+11. Przetwarzanie tekstu - python
+12. Kalkulator z linii poleceń - python
 
-#Programowanie w Pythonie
 
-Repozytorium zawiera programy przepisane z języka C do języka Python.
-
-#Cel
-Konwersja wybranych programów wykonanych wcześniej w C na ich odpowiedniki w Pythonie.
-
-#Programy
-1. Mediana
-2. Przetwarzanie tekstu
-3. Kalkulator z linii poleceń
