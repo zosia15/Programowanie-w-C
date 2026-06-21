@@ -14,4 +14,13 @@ Zbiór programów wykonanych podczas zajęć oraz w ramach prac domowych.
 8. Kalkulator z linii poleceń – argumenty programu.
 9. Rozbudowany kalkulator z linii poleceń – walidacja danych wejściowych.
 
+Programowanie w Pythonie
+Repozytorium zawiera programy przepisane z języka C do języka Python.
 
+Cel
+Konwersja wybranych programów wykonanych wcześniej w C na ich odpowiedniki w Pythonie.
+
+Programy
+Mediana
+Przetwarzanie tekstu
+Kalkulator z linii poleceń
